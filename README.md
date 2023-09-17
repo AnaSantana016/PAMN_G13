@@ -1,8 +1,8 @@
-# 📄 Informe sobre Accesibilidad Web WGAC/W3
+<h1 align="center">📄 Informe sobre Accesibilidad Web WGAC/W3</h1>
 
 Este informe se centra en la evaluación de la accesibilidad de un sitio web y una aplicación móvil de acuerdo con las pautas WCAG (Web Content Accessibility Guidelines) establecidas por el W3C (World Wide Web Consortium). El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
 
-## 👥 Autores (Ctrl + Click para ver los perfiles)
+## 🙆👨‍💻 Autores (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
   
 [![GitHub](https://img.shields.io/badge/GitHub-Ana%20del%20Carmen%20Santana%20Ojeda-red?style=flat-square&logo=github)](https://github.com/AnaSantana016)
