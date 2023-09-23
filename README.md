@@ -20,27 +20,19 @@ En esta sección, se seleccionó un sitio web y se llevó a cabo una evaluación
 En esta sección, se seleccionó una aplicación móvil y se realizó una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Al igual que en el ejercicio anterior, se empleó una herramienta de evaluación para respaldar los resultados manuales.
 
 ## 📄 Compilación del Informe
-El informe ha sido escrito en LaTeX, un sistema de composición de documentos ampliamente utilizado en la comunidad académica y científica. Para compilar el informe y obtener el documento PDF, siga estos pasos:
+Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
 
-1. Clone este repositorio en su máquina local:
+1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
 
-   ```bash
-   git clone https://github.com/SU_USUARIO/PAMN_G13.git
-   ```
+2. Localiza el archivo "informe_accesibilidad.tex" en el proyecto en Overleaf.
 
-2. Navegue al directorio del proyecto:
+3. Haz clic en el archivo "informe_accesibilidad.tex" para abrirlo en el editor de Overleaf.
 
-   ```bash
-   cd PAMN_G13
-   ```
+4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
 
-3. Compile el informe utilizando LaTeX:
+5. Overleaf se encargará de compilar automáticamente el documento LaTeX y generará el archivo PDF correspondiente.
 
-   ```bash
-   pdflatex informe_accesibilidad.tex
-   ```
-
-4. El documento PDF resultante estará disponible como `informe_accesibilidad.pdf`.
+6. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
 
 ## 🤝 Contribuciones
 Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.
