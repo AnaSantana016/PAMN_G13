@@ -1,6 +1,6 @@
-<h1 align="center">📄 Informe sobre Accesibilidad Web WGAC/W3</h1>
+<h1 align="center">📄 Diseño Arquitectonico MVVM</h1>
 
-Este informe se centra en la evaluación de la accesibilidad de un sitio web y una aplicación móvil de acuerdo con las pautas WCAG (Web Content Accessibility Guidelines) establecidas por el W3C (World Wide Web Consortium). El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
+Este documento detalla el diseño arquitectónico de nuestra aplicación móvil, donde nos adentraremos y detallaremos la arquitectura MVVM (Model-View-ViewModel).
 
 ## 🙆👨‍💻 Autores (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
@@ -10,14 +10,13 @@ Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Apl
 [![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
   
 
-## 📑 Contenido del Informe
-El informe se divide en dos secciones principales:
+### Desarrollo Iterativo
 
-### 📋 Ejercicio 1: Evaluación de la Accesibilidad del Sitio Web
-En esta sección, se seleccionó un sitio web y se llevó a cabo una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Además, se utilizó una herramienta de evaluación para complementar los hallazgos manuales.
+Este diseño se considera un borrador y se espera que evolucione a medida que avance el desarrollo de la aplicación. Se incorporarán nuevas características y vistas según sea necesario.
 
-### 📱 Ejercicio 2: Evaluación de la Accesibilidad de la Aplicación Móvil
-En esta sección, se seleccionó una aplicación móvil y se realizó una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Al igual que en el ejercicio anterior, se empleó una herramienta de evaluación para respaldar los resultados manuales.
+### 📑 Objetivos de la Aplicación
+
+La aplicación tiene como objetivo principal proporcionar a los usuarios una experiencia fluida y bien organizada. Permite a los usuarios realizar diversas acciones de manera eficiente, como la creación y gestión de listas de música y el reconocimiento de canciones mediante audio.
 
 ## 📄 Compilación del Informe
 Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
