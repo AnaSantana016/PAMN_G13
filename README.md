@@ -1,6 +1,6 @@
-<h1 align="center">📄 Informe sobre Accesibilidad Web WGAC/W3</h1>
+<h1 align="center">📄 Diseño de la Base de Datos</h1>
 
-Este informe se centra en la evaluación de la accesibilidad de un sitio web y una aplicación móvil de acuerdo con las pautas WCAG (Web Content Accessibility Guidelines) establecidas por el W3C (World Wide Web Consortium). El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
+Este informe se centra en la selección y diseño apropiado de la base de datos para el proyecto final, y reflexionamos sobre las implicaciones de esta elección. El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
 
 ## 🙆👨‍💻 Autores (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
@@ -11,13 +11,23 @@ Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Apl
   
 
 ## 📑 Contenido del Informe
-El informe se divide en dos secciones principales:
+El informe se divide en cuatro secciones principales:
 
-### 📋 Ejercicio 1: Evaluación de la Accesibilidad del Sitio Web
-En esta sección, se seleccionó un sitio web y se llevó a cabo una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Además, se utilizó una herramienta de evaluación para complementar los hallazgos manuales.
+### 1. 🏗️ Revisión de la Arquitectura del Proyecto Final
 
-### 📱 Ejercicio 2: Evaluación de la Accesibilidad de la Aplicación Móvil
-En esta sección, se seleccionó una aplicación móvil y se realizó una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Al igual que en el ejercicio anterior, se empleó una herramienta de evaluación para respaldar los resultados manuales.
+En colaboración con el equipo, se reviso la arquitectura del proyecto final. Identificando y resaltando los modelos y componentes asociados con la capa de persistencia.
+
+### 2. 🛠️ Selección de Tecnología para la Base de Datos
+
+Seleccionamos una tecnología para la base de datos de la aplicación. Justificando brevemente la elección, considerando las necesidades específicas de la aplicación.
+
+### 3. 🔄 Integración de la Lógica de la Capa de Persistencia
+
+Definimos cómo se integrará la lógica que gestionará la capa de persistencia en el proyecto. Complementandolo con un diagrama empleado en la actividad sobre la arquitectura de la aplicación.
+
+### 4. 🔮 Reflexión sobre Cambios Futuros
+
+Reflexionamos sobre posibles cambios futuros en la base de datos.
 
 ## 📄 Compilación del Informe
 Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
