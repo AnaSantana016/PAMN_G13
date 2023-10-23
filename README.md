@@ -1,6 +1,6 @@
-<h1 align="center">📄 Informe sobre Accesibilidad Web WGAC/W3</h1>
+<h1 align="center">📄 Informe sobre Patrones de Diseño</h1>
 
-Este informe se centra en la evaluación de la accesibilidad de un sitio web y una aplicación móvil de acuerdo con las pautas WCAG (Web Content Accessibility Guidelines) establecidas por el W3C (World Wide Web Consortium). El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
+Este informe se centra en el uso del patrón de diseño Factory Method. El patrón Factory Method proporciona una manera de crear objetos de un tipo particular en una interfaz común, permitiendo la creación de diferentes tipos de notas de manera modular y extensible.
 
 ## 🙆👨‍💻 Autores (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
@@ -11,22 +11,24 @@ Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Apl
   
 
 ## 📑 Contenido del Informe
-El informe se divide en dos secciones principales:
+El informe se divide en varias secciones principales:
 
-### 📋 Ejercicio 1: Evaluación de la Accesibilidad del Sitio Web
-En esta sección, se seleccionó un sitio web y se llevó a cabo una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Además, se utilizó una herramienta de evaluación para complementar los hallazgos manuales.
+📋 Sección 1: Diseño de la Estructura de Clases
+En esta parte del documento, se elabora la estructura de clases para una aplicación de notas en Kotlin, utilizando el patrón Factory Method. Las notas pueden ser de tres tipos: texto, imagen y audio.
 
-### 📱 Ejercicio 2: Evaluación de la Accesibilidad de la Aplicación Móvil
-En esta sección, se seleccionó una aplicación móvil y se realizó una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Al igual que en el ejercicio anterior, se empleó una herramienta de evaluación para respaldar los resultados manuales.
+📱 Sección 2: Detalles de las Clases
+En esta sección, se presenta un diagrama de clases que incluye el código correspondiente, acompañado de una descripción detallada para cada clase.
+
+☁ Sección 3: Reflexión sobre Cambios Futuros
+En este segmento, se abordan diversas preguntas relacionadas con el patrón de diseño que será implementado en la aplicación mencionada.
 
 ## 📄 Compilación del Informe
-Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
 
 1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
 
-2. Localiza el archivo "informe_accesibilidad.tex" en el proyecto en Overleaf.
+2. Localiza el archivo "patrones.tex" en el proyecto en Overleaf.
 
-3. Haz clic en el archivo "informe_accesibilidad.tex" para abrirlo en el editor de Overleaf.
+3. Haz clic en el archivo "patrones.tex" para abrirlo en el editor de Overleaf.
 
 4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
 
