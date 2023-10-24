@@ -64,19 +64,19 @@ class FabricaNotaVideo(private val rutaVideo: String) : FabricaNotas {
 }
 
 fun main() {
-     // Crear fábricas de notas
+    // Crear fábricas de notas
     val fabricaTexto: FabricaNotas = FabricaNotaTexto("Contenido de la nota de texto")
     val fabricaImagen: FabricaNotas = FabricaNotaImagen("ruta/imagen.jpg")
     val fabricaAudio: FabricaNotas = FabricaNotaAudio("ruta/audio.mp3")
-	val fabricaVideo: FabricaNotas = FabricaNotaVideo("ruta/video.mp4")
+    val fabricaVideo: FabricaNotas = FabricaNotaVideo("ruta/video.mp4")
 	
     // Crear notas utilizando las fábricas
     val notaTexto: Nota = fabricaTexto.crearNota()
     val notaImagen: Nota = fabricaImagen.crearNota()
     val notaAudio: Nota = fabricaAudio.crearNota()
-	val notaVideo: Nota = fabricaVideo.crearNota()
+    val notaVideo: Nota = fabricaVideo.crearNota()
     
-	// Mostrar el contenido de las notas
+    // Mostrar el contenido de las notas
     notaTexto.mostrarContenido()
     notaImagen.mostrarContenido()
     notaAudio.mostrarContenido()
