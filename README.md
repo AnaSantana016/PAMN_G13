@@ -1,6 +1,7 @@
-<h1 align="center">📄 Informe sobre Accesibilidad Web WGAC/W3</h1>
+<h1 align="center">📄 Recomendaciones de arquitectura para aplicaciones Android</h1>
 
-Este informe se centra en la evaluación de la accesibilidad de un sitio web y una aplicación móvil de acuerdo con las pautas WCAG (Web Content Accessibility Guidelines) establecidas por el W3C (World Wide Web Consortium). El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
+Este informe se centra en la eleccion de 5 recomendaciones mas importantes de arquitectura basada en factores como la aplicabilidad general, el impacto
+potencial en el rendimiento o la experiencia del usuario. El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
 
 ## 🙆👨‍💻 Autores (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
@@ -9,15 +10,17 @@ Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Apl
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
   
-
 ## 📑 Contenido del Informe
-El informe se divide en dos secciones principales:
+El informe se estructura en tres secciones fundamentales:
 
-### 📋 Ejercicio 1: Evaluación de la Accesibilidad del Sitio Web
-En esta sección, se seleccionó un sitio web y se llevó a cabo una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Además, se utilizó una herramienta de evaluación para complementar los hallazgos manuales.
+### 📋 1. Investigación: 
+  Se realizó una exhaustiva investigación explorando la sección de recomendaciones sobre la arquitectura de aplicaciones Android en el enlace proporcionado.
 
-### 📱 Ejercicio 2: Evaluación de la Accesibilidad de la Aplicación Móvil
-En esta sección, se seleccionó una aplicación móvil y se realizó una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Al igual que en el ejercicio anterior, se empleó una herramienta de evaluación para respaldar los resultados manuales.
+### 📱 2. Selección: 
+  De entre todas las recomendaciones disponibles, se han seleccionado las 5 consideradas más cruciales. Esta elección se basa en criterios como aplicabilidad general, impacto potencial    en el rendimiento y experiencia del usuario, entre otros.
+
+### 💻​ 3. Recomendaciones en nuestro proyecto:
+   Se indicará si se optará por seguir cada recomendación en el proyecto de la asignatura, explicando las razones detrás de cada decisión, destacando la esencialidad percibida de cada     recomendación y los beneficios que aporta al proyecto.
 
 ## 📄 Compilación del Informe
 Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
@@ -26,7 +29,7 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 
 2. Localiza el archivo "informe_accesibilidad.tex" en el proyecto en Overleaf.
 
-3. Haz clic en el archivo "informe_accesibilidad.tex" para abrirlo en el editor de Overleaf.
+3. Haz clic en el archivo "arquitectura.tex" para abrirlo en el editor de Overleaf.
 
 4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
 
