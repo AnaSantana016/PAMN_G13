@@ -27,7 +27,7 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 
 1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
 
-2. Localiza el archivo "informe_accesibilidad.tex" en el proyecto en Overleaf.
+2. Localiza el archivo "arquitectura.tex" en el proyecto en Overleaf.
 
 3. Haz clic en el archivo "arquitectura.tex" para abrirlo en el editor de Overleaf.
 
