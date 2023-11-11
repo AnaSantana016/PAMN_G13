@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="frame_name1">El Grito</string>
+    <string name="frame_name2">La joven de la perla</string>
+    <string name="frame_name3">La Gioconda</string>
+    <string name="frame_description1">El Grito. Edvard Munch (1893)</string>
+    <string name="frame_description2">La joven de la perla. Johannes Vermeer (1665)</string>
+    <string name="frame_description3">La Gioconda. Leonardo Da Vinci (1503)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
