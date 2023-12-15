@@ -1,6 +1,6 @@
 <h1 align="center">📄 Informe de Coevaluación de Proyectos</h1>
 
-Este informe detalla la coevaluación de los proyectos presentados por distintos grupos en el curso de Programación de Aplicaciones Móviles Nativas (PAMN). La evaluación se basa en diferentes aspectos, incluida la estructura de la presentación, la calidad del argumento, la expresión oral y gestual, el grado de seguridad percibido, la interacción con la audiencia, el manejo del turno de preguntas y la eficacia general de la presentación.. El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
+Este informe detalla la coevaluación de los proyectos presentados por distintos grupos en el curso de Programación de Aplicaciones Móviles Nativas (PAMN). La evaluación se basa en diferentes aspectos, incluida la estructura de la presentación, la calidad del argumento, la expresión oral y gestual, el grado de seguridad percibido, la interacción con la audiencia, el manejo del turno de preguntas y la eficacia general de la presentación. El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
 
 ## 🙆👨‍💻 Autores (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
