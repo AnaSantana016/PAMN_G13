@@ -1,6 +1,6 @@
-<h1 align="center">📄 Informe sobre Accesibilidad Web WGAC/W3</h1>
+<h1 align="center">📄 Informe de Coevaluación de Proyectos</h1>
 
-Este informe se centra en la evaluación de la accesibilidad de un sitio web y una aplicación móvil de acuerdo con las pautas WCAG (Web Content Accessibility Guidelines) establecidas por el W3C (World Wide Web Consortium). El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
+Este informe detalla la coevaluación de los proyectos presentados por distintos grupos en el curso de Programación de Aplicaciones Móviles Nativas (PAMN). La evaluación se basa en diferentes aspectos, incluida la estructura de la presentación, la calidad del argumento, la expresión oral y gestual, el grado de seguridad percibido, la interacción con la audiencia, el manejo del turno de preguntas y la eficacia general de la presentación.. El informe se ha generado utilizando LaTeX y se ha compilado en un documento PDF.
 
 ## 🙆👨‍💻 Autores (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
@@ -11,22 +11,23 @@ Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Apl
   
 
 ## 📑 Contenido del Informe
-El informe se divide en dos secciones principales:
+El informe consta de las siguientes secciones:
 
-### 📋 Ejercicio 1: Evaluación de la Accesibilidad del Sitio Web
-En esta sección, se seleccionó un sitio web y se llevó a cabo una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Además, se utilizó una herramienta de evaluación para complementar los hallazgos manuales.
+### 📊 Evaluación de Proyectos
+En esta sección, se proporciona una evaluación detallada de varios proyectos presentados por diferentes grupos. Se analizan aspectos como la estructura de la presentación, la claridad del argumento, la expresión oral y gestual, entre otros.
 
-### 📱 Ejercicio 2: Evaluación de la Accesibilidad de la Aplicación Móvil
-En esta sección, se seleccionó una aplicación móvil y se realizó una evaluación inicial de su accesibilidad. Se identificaron problemas de accesibilidad de acuerdo a las pautas WCAG. Al igual que en el ejercicio anterior, se empleó una herramienta de evaluación para respaldar los resultados manuales.
+### 📈 Puntuaciones y Notas Finales
+Se presenta una tabla que resume las puntuaciones asignadas a cada proyecto en diferentes categorías, así como la nota media final de cada grupo evaluado.
+
 
 ## 📄 Compilación del Informe
 Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
 
 1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
 
-2. Localiza el archivo "informe_accesibilidad.tex" en el proyecto en Overleaf.
+2. Localiza el archivo "coevaluation.tex" en el proyecto en Overleaf.
 
-3. Haz clic en el archivo "informe_accesibilidad.tex" para abrirlo en el editor de Overleaf.
+3. Haz clic en el archivo "coevaluation.tex" para abrirlo en el editor de Overleaf.
 
 4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
 
